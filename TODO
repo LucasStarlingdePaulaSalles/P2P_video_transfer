@@ -1,0 +1,10 @@
+- setup mininet
+- develop messages package
+    - Data type
+    - Builder for messages
+    - Byte to message reader
+- develop peer
+    - Test peers on mininet
+- develop client
+- test
+- document
